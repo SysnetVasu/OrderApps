@@ -1,0 +1,13 @@
+npm i codelyzer
+npm i codelyzer@5.2.2
+npm i @angular-devkit/build-angular
+npm i @angular-devkit/architect
+npm i @angular-devkit/core
+npm i @angular-devkit/build-optimizer
+npm i @angular-devkit/build-webpack
+npm i @angular-devkit/architect
+npm i @angular-devkit/core
+npm i @ngtools/webpack
+npm i @angular/common
+npm i @ngtools/webpack
+npm i @ngtools/webpack@15.2.5

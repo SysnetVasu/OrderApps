@@ -1,0 +1,8 @@
+{
+  "name": "technow-soft",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
